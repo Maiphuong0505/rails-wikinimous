@@ -13,3 +13,10 @@
  *= require_tree .
  *= require_self
  */
+/* p.overflow_paragraph{
+    display: block;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    max-width:80%
+} */
